@@ -32,6 +32,6 @@ int main() {
         }
     }
   }
-  cout<<"Highest pal num = "<<highestPal<<" which is "<<palNum1<<" and "<<palNum2;
+  cout<<"Highest palindrome number is = "<<highestPal<<" which is "<<palNum1<<" times "<<palNum2;
   return 0;
 }
